@@ -8,5 +8,5 @@ date: 2020-03-03
 
 We love whales see this whale tail statue from Puerto Madryn:
 
-![Whale Tail](/assets/impages/Madryn.jpg)
+![Whale Tail](/assets/images/Madryn.jpg)
 
