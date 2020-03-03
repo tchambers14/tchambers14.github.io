@@ -10,3 +10,4 @@ We love whales see this whale tail statue from Puerto Madryn:
 
 ![Whale Tail](/assets/images/Madryn.jpg)
 
+![My helpful screenshot](/assets/images/Madryn.jpg)
