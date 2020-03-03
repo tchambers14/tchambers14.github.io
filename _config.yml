@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 name: Lucy and Tom, Whale Magnets
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
