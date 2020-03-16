@@ -6,15 +6,6 @@ main:
   - title: "Rugby"
     url: /rugby/
 
-  - title: "Play"
-    url: /play/
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
 
