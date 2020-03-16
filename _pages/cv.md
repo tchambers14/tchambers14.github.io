@@ -43,7 +43,6 @@ Skills
 * Credit Derivatives
 * Business Analysis / Product Ownership
     * SAFe - Product Ownership
-    * Skill 3
 
 
 Service and leadership
