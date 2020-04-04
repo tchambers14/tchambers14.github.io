@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "npm-run-all": "^1.7.0",
-    "onchange": "^2.2.0",
+    "onchange": "^6.1.0",
     "uglify-js": "^2.6.1"
   },
   "scripts": {
@@ -31,6 +31,7 @@
     "build:js": "npm run uglify"
   },
   "dependencies": {
+    "kind-of": "^6.0.3"
     "braces": "^3.0.2"
   }
 }
