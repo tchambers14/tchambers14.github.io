@@ -1,4 +1,4 @@
-# A personal blog forked from  [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+# A personal blog for Thomas Chambers forked from  [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 
 
