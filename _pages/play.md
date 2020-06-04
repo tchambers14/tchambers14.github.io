@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Hobbies"
+title: "Play"
 summary: "Blog posts about activities and interests"
 image:
 permalink: /play/
 author_profile: true
 ---
 
-## General Blog Posts
+## Play Blog Posts
 
 <ul>{% for post in site.categories.Play %}
   {% include archive-single.html %}
