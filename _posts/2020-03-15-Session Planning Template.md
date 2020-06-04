@@ -1,6 +1,8 @@
 ---
 title: "Session Planning Template"
 excerpt: "Word document template for planning training sessions"
+summary: "Word document template for planning training sessions"
+image:
 collection: rugby
 date: 2020-03-15
 permalink: /Rugby/SessionPlanning/

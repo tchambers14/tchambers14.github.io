@@ -286,7 +286,7 @@ collections:
   Rugby:
     output: true
     permalink: /:collection/:path/
-  Other:
+  Play:
     output: true
     permalink: /:collection/:path/
 
@@ -311,6 +311,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      author: "Thomas Chambers"
   # _Experiences
   - scope:
       path: ""

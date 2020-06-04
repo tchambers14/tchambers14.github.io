@@ -1,5 +1,7 @@
 ---
-title: "Thomas Chambers - Product Owner"
+title: "Thomas Chambers - Technologist"
+description: "Experienced Quantitative Business Analyst and Product Owner"
+image:
 header:
   overlay_image: /images/business-process-analysis-header.jpg
   caption: "Photo credit: [**Nitor**](https://www.mega.com/en/product/business-process-analysis)"
