@@ -10,7 +10,7 @@ main:
     url: /play/
 
   - title: "All Posts"
-    url: /year-archive/
+    url: /all_posts/
 
   - title: "CV"
     url: /cv/
