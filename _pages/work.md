@@ -15,7 +15,10 @@ permalink: /work/
 
 I have worked as a Business Analyst / Product owner for over a decade at investment banks. With extensive experience in quantitative risk management and regulatory topics. I am passionate about understanding organisational dynamics and exploring new ways of working.
 
+All views expressed in blog posts are my own.
+
 ## Work Blog Posts
 <ul>{% for post in site.categories.Work %}
     {% include archive-single.html %}
 {% endfor %}</ul>
+
