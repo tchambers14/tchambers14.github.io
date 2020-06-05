@@ -12,5 +12,5 @@ main:
   - title: "All Posts"
     url: /all_posts/
 
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
