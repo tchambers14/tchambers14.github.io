@@ -7,7 +7,7 @@ author_profile: true
 
 Experience
 ---
-  <ul>{% for post in site.Experiences reversed %}
+  <ul>{% for post in site.experiences reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
