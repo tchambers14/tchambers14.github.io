@@ -26,7 +26,7 @@ Listening is the basis of good communication. Listening to the views of others e
 Integrating views requires consideration of conflicting view points to identify potential win-win outcomes. Integrating views also presents an opportunity to consider your own view point, and how it compares to others.
 
 ### Learn
-Learning requires humility, through learning the views others different approaches problems it is possible to develop approaches that are improved over anything that could have been created working alone.
+Learning requires humility, through learning the basis of different approaches to problems it is possible to develop new approaches that are improved over anything that could have been created working alone.
 
 ### Assimilate
 Assimilating requires an understanding of the operating context and what has been learnt, and distilling this information to a message that can be clearly delivered.
