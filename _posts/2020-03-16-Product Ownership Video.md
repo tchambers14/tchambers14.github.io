@@ -1,8 +1,8 @@
 ---
 title: "Product Ownership in a Nutshell"
 excerpt: "A great video that explains the key concepts of agile _product ownership_"
-summary: "A great video that explains the key concepts of agile _product ownership_"
-Image: /images/product_ownership.jpg
+header:
+  teaser: /images/product_ownership.jpg
 collection: analysis
 date: 2020-03-16
 tags: ["product_ownership","video"]
@@ -17,6 +17,6 @@ My favourite part is the way it provides a simple framework for how the roles in
 - Product Owner - "BUILD THE RIGHT THING"
 - Dev Team - "BUILD THE THING RIGHT"
 
-This for me really sums up the critical function of product ownership: as being an agent for the client and a member of the technical team. 
+This for me really sums up the critical function of product ownership: as being an agent for the client and a member of the technical team.
 
 Product ownership is about creating a clear path for the technical team to follow, whilst ensuring that the clients are getting value for money.
