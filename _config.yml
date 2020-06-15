@@ -155,7 +155,6 @@ footer:
 include:
   - .htaccess
   - _pages
-  - _experiences
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -312,12 +311,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _Experiences
-  - scope:
-      path: ""
-      type: "Experiences"
-    values:
-      layout: archive
-      reroute_button:
-        url: /cv/
-        label: "Back to CV"
