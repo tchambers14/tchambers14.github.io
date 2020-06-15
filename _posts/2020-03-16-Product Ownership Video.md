@@ -5,7 +5,7 @@ header:
   teaser: /images/product_ownership.jpg
 collection: analysis
 date: 2020-03-16
-tags: ["product_ownership","video"]
+tags: ["product ownership","video"]
 categories: [Work]
 ---
 This is one of the best videos I have come across on product ownership.
