@@ -21,3 +21,5 @@ My approach to learning has been as follows:
     - For this I have challenged myself t create a fitness timer app using Vue.js framework and to deploy it using a cloud app provisioning service
 
 Whilst it can be appealing to spend lots of time reading as much about a language as possible, nothing quite accelerates learning like a real problem to solve. I expect to post once my application is deployed....
+
+![JavaScript]({{ page.header.teaser }})
