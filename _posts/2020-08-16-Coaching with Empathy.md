@@ -4,7 +4,7 @@ excerpt: "What is the player going to do with that information?"
 header:
   teaser: /images/mentor-4205038_1280.png
 collection: rugby
-date: 2020-08-09
+date: 2020-08-16
 tags: ["communication","players"]
 categories: [Rugby]
 ---
