@@ -33,3 +33,6 @@ _site
 # theme documentation
 docs
 test
+
+# vs code config
+.vscode
