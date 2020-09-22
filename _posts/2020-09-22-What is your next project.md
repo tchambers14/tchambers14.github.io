@@ -46,7 +46,7 @@ Some triggers and examples for identifying projects to spend time on:
 
 # Going for it without fear
 
-Most successful entrepreneurs have [failed many times](https://www.entrepreneur.com/article/228438). For most of us the majority of the ideas that we have are unlikely to work first time or without considerable refinement. However many ideas don't get off the ground due to fear of failure. Accepting failure as a reality helps to develop the resilience needed to keep trying new things. One approach to this type of resiliant learning is to see each idea / project as an experiment:
+Most successful entrepreneurs have [failed many times](https://www.entrepreneur.com/article/228438). For most of us the majority of the ideas that we have are unlikely to work first time or without considerable refinement. However many ideas don't get off the ground due to fear of failure. Accepting failure as a reality helps to develop the resilience needed to keep trying new things. One approach to this type of resilient learning is to see each idea / project as an experiment:
 
 > Will this work in my work context?
 
