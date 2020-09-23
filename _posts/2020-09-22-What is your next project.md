@@ -10,7 +10,7 @@ tags: ["learning","career development"]
 categories: [Work]
 ---
 
-In his book 'Drive' [Daniel Pink](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us) argues that we are motivated by _"Autonomy, Mastery and Purpose"_ one way to increase the level of self-direction, skill development and meaning in your role is to seize control of how you spend your time through developing personal side projects aligned with your daily work. 
+In his book 'Drive' [Daniel Pink](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us) argues that we are motivated by _"Autonomy, Mastery and Purpose"_. One way to increase the level of self-direction (autonomy), skill development (mastery) and meaning (purpose) in your role is to seize control of how you spend your time through developing personal side projects aligned with your daily work. 
 
 Some of the benefits of developing successful side projects are:
 
