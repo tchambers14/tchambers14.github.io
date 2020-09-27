@@ -24,7 +24,7 @@ Some of the benefits of developing successful side projects are:
 > You can find out a lot from people's reaction to your ideas as to whether they are valuable, and critically you can ensure that your stakeholders (boss, clients, partners) are clear on how you are spending your time.
 
 
-# Identifying Something
+# Identifying something
 
 During the course of a working day we come across processes and activities that are frustrating or inefficient. Furthermore due to the pace of change of new technologies there are always changes to our operating environment that require some learning. Identification of frustrations, inefficiencies and changes can become triggers that seed ideas to develop into projects.
 
