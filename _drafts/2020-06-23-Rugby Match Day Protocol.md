@@ -5,6 +5,11 @@ header:
   teaser: /images/johnghiz.ca.JPG
 collection: analysis
 date: 2020-06-19
-tags: ["product ownership"]
-categories: [Work]
+tags: ["tools", "approach"]
+categories: [Rugby]
 ---
+
+I enclose a template that i use to guide match day preparation. 
+
+Matches are why we play rugby
+
