@@ -2,7 +2,7 @@
 title: "The Season That Won't Be"
 excerpt: "Finding a way through"
 header:
-  teaser: /images/cancelled.png
+  teaser: /images/rugbyball.jpg
 date: 2020-11-14
 collection: other
 categories:
@@ -13,7 +13,9 @@ tags:
 
 When I received a whatsapp detailing that the 2020-21 season will not go ahead I was bitterly disappointed, Old Alleynian's had been on a good run in the previous season, and training sessions through September and October had reminded everyone at the club the value that rugby brings.
 
-![Cancelled]({{ page.header.teaser }})
+<p align="center">
+  <img src="/images/cancelled.png">
+</p>
 
 This disappointment however is trivial in the context to the hardships that many people in our community and around the world are experiencing. In the context of the COVID-19 in the UK, cancelling a rugby season is most certainly a sensible thing to do to protect people from getting seriously ill and to help everyone get back to normality as soon as possible. The number of people facing genuine hardship through this period puts rugby in perspective and rather than dwell on a season that won't be the question I believe we should be asking is:
 
