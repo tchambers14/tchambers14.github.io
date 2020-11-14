@@ -25,4 +25,8 @@ The current context of COVID-19 has severely disrupted rugby across the world. A
 
 In the community game I also propose that the rugby club is a sanctuary
 
-Has the power to be a sanctuary away from the world of work where people can be who they want to be and improve themsleves. 
+Has the power to be a sanctuary away from the world of work where people can be who they want to be and improve themselves.
+
+## Include details on crossfit games style events
+
+Finding away, it has been amazing to watch some of the different ways in whcih players have got involved in the club

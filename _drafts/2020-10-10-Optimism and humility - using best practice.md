@@ -13,7 +13,7 @@ It strikes me how many times i catch myself devising new ways to approach proble
 
 It is tempting to think that each new problem is special and different but that is rarely the case. 
 
-See books on software engingeering from the 1960s and see the multimillion dollar consulting empires that assit companies in deliverying software projects. 
+See books on software engineering from the 1960s and see the multimillion dollar consulting empires that assist companies in delivering software projects. 
 
 I find myself starting from scratch time and time again. My new mantra has become, someone has done this before. 
 
