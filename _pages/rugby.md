@@ -1,6 +1,7 @@
 ---
 title: "Thomas Chambers - Rugby Coach"
 summary: "Sharing ideas from my coaching"
+id: rugby
 header:
   overlay_image: "/images/coach 5.png"
   actions:

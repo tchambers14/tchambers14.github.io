@@ -2,6 +2,7 @@
 layout: archive
 title: "Play"
 summary: "Blog posts about activities and interests"
+id: play
 image:
 permalink: /play/
 author_profile: true

@@ -94,7 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Thomas Chambers"
-  avatar           : "/images/profile.png"
+  avatar           : "/images/Thomas 1 small.JPG"
+  avatar_alt       : "/images/profile.png" 
   bio              : "Technologist and Rugby Coach"
   #  employer         : "BNP Paribas"
   location         : "Home"
@@ -311,3 +312,4 @@ defaults:
     values:
       layout: single
       author_profile: true
+

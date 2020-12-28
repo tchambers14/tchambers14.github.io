@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /other/
-
+id: other
 ---
 
 ## General Blog Posts

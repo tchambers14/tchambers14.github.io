@@ -2,6 +2,7 @@
 layout: archive
 title: "Thomas Chambers - CV"
 permalink: /cv/
+id: cv
 author_profile: true
 ---
 
