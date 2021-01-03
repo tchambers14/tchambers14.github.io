@@ -9,25 +9,29 @@ tags: ["approach",]
 categories: [Work]
 ---
 
-## How often are you nearly complete on a software delivery?
+## How often are software deliveries really unique?
 
+A quick scan of the literature published on software development practice over the last 45 years will yield descriptions of challenges that resonate with most technologists. Additionally according [Grand View Research](https://www.grandviewresearch.com/industry-analysis/digital-transformation-market)
 
-> _"But this problem is different"_
+> _"The global digital transformation market size was valued at USD 284.38 billion in 2019 and is expected to expand at a compound annual growth rate (CAGR) of 22.5% from 2020 to 2027")_
+
+This existence of this market raises a paradox; on the one hand it must be possible to 'codify' software engineering practice, in such a way that organisations experience improved performance, in order to successfully sell transformation programs. On the other hand the fact that in 2020 organisations that have been developing software for decades have still not identified the 'best way' to organise themselves to deliver software suggests that any such codification effort could be futile.
+
+How do we handle this paradox? It strikes me, as I work on software delivery projects, that it is tempting to feel that it is not possible to codify an approach to solve a specific problem, and that it is very tempting to believe that there are specifics of any particular challenge that are unique justifying devising a bespoke approach to solve that challenge and ignore any best practice guidance.
+
+As a result it is tempting to then devise new ways to break down the challenges and devise a way forward to complete the work. This believe justifies In reality this is rarely the case.
 
 > _"The next release will solve our problem"_
 
 > _"Once we complete 'blah' we will be back on track"_
 
-It strikes me how many times I catch myself devising new ways to approach problems, illustrating just how tempting to think that a specific problem is somehow special. In reality this is rarely the case.
+> _"But this problem is different"_
 
-Yes it is true that in large complex systems emergent properties are hard to analyse upfront, however frameworks and approaches are out there that provide approaches to minimise the impact of unforeseen issues.
 
-Further evidence of this:
-See books on software engineering from the 1960s and see the multimillion dollar consulting empires that assist companies in delivering software projects.
 
-According to [Grand View Research](https://www.grandviewresearch.com/industry-analysis/digital-transformation-market)
-_"The global digital transformation market size was valued at USD 284.38 billion in 2019 and is expected to expand at a compound annual growth rate (CAGR) of 22.5% from 2020 to 2027")_
-This market would not exist if there was a clearly successful 'best way' to solve software engineering challenges.
+Yes it is true that in large complex systems emergent properties are hard (or prohibitively expensive) to analyse upfront, however frameworks and approaches are out there that provide approaches to minimise the impact of unforeseen issues.
+
+I argue that some problems are tractable and clear.
 
 ## Optimism
 
