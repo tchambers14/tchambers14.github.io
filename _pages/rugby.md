@@ -36,7 +36,7 @@ My coaching philosophy is summed up by _"success through enjoyment"_
 - Competing in [London SE2](https://www.englandrugby.com/fixtures-and-results/search-results?competition=261&division=21517&season=2019-2020#table)
 
 
-### RFU Level 3 Coach
+## RFU Level 3 Coach
 
 <img src="/images/RFU.jfif" alt="RFU" width="200" class="align-center"/>
 
