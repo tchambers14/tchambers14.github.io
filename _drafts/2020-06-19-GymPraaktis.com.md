@@ -1,6 +1,6 @@
 ---
-title: "Agile delivery is like music to my ears"
-excerpt: "Product ownership requires attention to all points in the delivery cycle"
+title: "GymPraaktis.com - Now Live"
+excerpt: "Website is now live for the exciting new GymPraaktis organisation"
 header:
   teaser: /images/johnghiz.ca.JPG
 collection: analysis
