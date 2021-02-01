@@ -1,5 +1,5 @@
 ---
-title: "Fraternising with the 'opposition'"
+title: "Fraternising with the 'Opposition'"
 excerpt: "Connecting with the coaching community"
 header:
   teaser: /images/feng-shui.jpg
