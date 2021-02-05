@@ -17,7 +17,7 @@ Optimism bias in human beings is a well-documented phenomenon ([1](https://thede
 
 > _"Computer programming, however, creates with an exceedingly tractable medium. The programmer builds from pure thought-stuff: concepts and very flexible representations thereof. Because the medium is tractable, we expect few difficulties in implementation, hence our pervasive optimism. Because our ideas are faulty, we have bugs; hence our optimism is unjustified."_ (Brooks, 1975)[^1]
 
-Extending Brooks' idea beyond a single 'programmer' to the modern multi-disciplined 'feature team' additional _"thought-stuff bugs"_ may also arise through miss-matching mental models concepts. Building consensus is hard, and communication overhead (i.e., the complexity of squashing any _"thought-bugs"_) increases as teams get bigger. All of this suggests that even after 45 years of progress in the industry, optimism bias is alive and kicking in modern organisations.
+Extending Brooks' idea beyond a single 'programmer' to the modern multi-disciplined 'feature team' additional _"thought-stuff bugs"_ may also arise through miss-matching mental models. Building consensus is hard, and communication overhead (i.e., the complexity of squashing any _"thought-bugs"_) increases as teams get bigger. All of this suggests that even after 45 years of progress in the industry, optimism bias is alive and kicking in modern organisations.
 
 <figure>
   <img src="/images/elephant prespectives.jpg" alt="Different Mental Models">
@@ -36,7 +36,7 @@ In order to address optimism bias, we must first acknowledge its existence, this
 
 > _"No-one has said they cannot deliver, so the delivery must be proceeding according to plan ..."_
 
-Finding mechanisms to catch overly optimistic thinking and challenging its assumptions can be an effective safeguard. Additionally, retrospective ceremonies built into ['Agile'](https://agilemanifesto.org/) teams can create the space to discuss situations where a team has been caught out by over-optimism and adapt their estimation techniques or delivery process accordingly. For a **Product Owner** this could involve finding better questions to ask to 'flush-out' hidden delivery risks or alternative solution configurations with both development teams and clients.
+Finding mechanisms to catch overly optimistic thinking and challenging its assumptions can be an effective safeguard. Additionally, retrospective ceremonies built into ['Agile'](https://agilemanifesto.org/) teams can create the space to discuss situations where a team has been caught out by over-optimism and adapt their estimation techniques or delivery process accordingly. For a _Product Owner_ this could involve finding better questions to ask to 'flush-out' hidden delivery risks or alternative solution configurations with both development teams and clients.
 
 ### Finding a better way
 
@@ -50,8 +50,8 @@ Whilst all software deliveries _are_ unique (by virtue of the people involved if
 
 Next time you find yourself having to lead a workshop, write a user-story, prepare a document, for a seemingly benign deliverable, be humble enough to think _"Someone has done this before"_. Two minutes of searching on the web yields a template, a guide, some advice, an example, and although some of these are not always useful, seeking an external view on how to approach the problem can:
 
-- a) help to validate your own thinking,
-- b) help to sell your approach to others. _"I'm using a best-practice technique from blah" can be a compelling argument._
+- help to validate your own thinking,
+- help to sell your approach to others. _"I'm using a best-practice technique from blah" can be a compelling argument._
 
 #### Specific examples
 

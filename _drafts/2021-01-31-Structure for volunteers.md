@@ -14,3 +14,13 @@ People want to help
 McGregor Theory X and Theory Y
 
 If you show them how!
+
+Systems, protocol process. 
+
+Help people help you. 
+
+## Unlock the potential of volunteers
+
+People want to help but often don't know how or what to do, are not given clear guidance and don't recieve recognition or reward when they do. 
+
+
