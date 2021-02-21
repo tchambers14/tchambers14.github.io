@@ -3,6 +3,9 @@ title: "RFU Level 3"
 excerpt: "Sharing my experience"
 header:
   teaser: "/images/rfu.jfif"
+images:
+  webinar: "/images/level3webinar.jfif"
+  discerning_eye: "/images/coach 6.png"
 collection: rugby
 date: 2021-02-21
 tags: ["coaching",]
@@ -25,7 +28,7 @@ Having the course run over a season allowed the ideas to sink in and provided mu
 
 Working closely with other coaches helped me see them as a a critical resource (see post [Fraternising with the 'Opposition']({% post_url 2020-09-27-Fraternising with the opposition %})). Sharing ideas with other coaches, particularly ones at other clubs, can be a great way to sound them out and refine them.
 
-<img src="/images/level3webinar.jfif" alt="level 3 webinar" width="300" class="align-center"/>
+![Level3Webinar]({{ page.images.webinar }})
 _A screenshot from one of the webinar days (conducted online due to COVID)_
 
 ### Be deliberate
@@ -38,9 +41,7 @@ A secondary benefit of being deliberate is that it helps to communicate your pla
 
 The ability to reflect on events and extract learning is a vital skill for a coach. Keeping notes on reflections and reviewing regularly has been a great way for me to think through how effective my coaching interventions are and how they can be improved. The course offered multiple opportunities to practice reflective skills and helped me to develop a more discerning coaches eye.
 
-<img src="/images/coach 6.png" alt="discerning eye" width="300" class="align-center"/>
-
-![Coaching](/images/coach 6.png)
+![Discerning_eye]({{ page.images.discerning_eye }})
 
 _A more discerning coaches eye!_
 
@@ -72,4 +73,4 @@ Being a coach involves working within a club environment#. Being sensitive to th
 
 I enjoyed the level 3 coaching experience immensely and would consider the more advanced level 4 course in the future. If you would like to discuss the course feel free to get in touch.
 
-![Coaching]({{ page.header.teaser }})
+![RFU]({{ page.header.teaser }})
