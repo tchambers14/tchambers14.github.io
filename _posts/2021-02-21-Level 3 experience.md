@@ -5,7 +5,7 @@ header:
   teaser: "/images/rfu.jfif"
 images:
   webinar: "/images/level3webinar.jfif"
-  discerning_eye: "/images/coach 6.png"
+  discerning_eye: "/images/coach 6.PNG"
 collection: rugby
 date: 2021-02-21
 tags: ["coaching",]
