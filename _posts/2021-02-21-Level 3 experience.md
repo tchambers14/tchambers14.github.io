@@ -25,7 +25,7 @@ Having the course run over a season allowed the ideas to sink in and provided mu
 
 Working closely with other coaches helped me see them as a a critical resource (see post [Fraternising with the 'Opposition']({% post_url 2020-09-27-Fraternising with the opposition %})). Sharing ideas with other coaches, particularly ones at other clubs, can be a great way to sound them out and refine them.
 
-![Webinar](/images/level3webinar.jfif)
+<img src="/images/level3webinar.jfif" alt="level 3 webinar" width="300" class="align-center"/>
 _A screenshot from one of the webinar days (conducted online due to COVID)_
 
 ### Be deliberate
@@ -37,6 +37,8 @@ A secondary benefit of being deliberate is that it helps to communicate your pla
 ### Reflect
 
 The ability to reflect on events and extract learning is a vital skill for a coach. Keeping notes on reflections and reviewing regularly has been a great way for me to think through how effective my coaching interventions are and how they can be improved. The course offered multiple opportunities to practice reflective skills and helped me to develop a more discerning coaches eye.
+
+<img src="/images/coach 6.png" alt="discerning eye" width="300" class="align-center"/>
 
 ![Coaching](/images/coach 6.png)
 
