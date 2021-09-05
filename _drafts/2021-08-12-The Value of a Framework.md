@@ -12,4 +12,6 @@ The value of a framework is the adoption of standards.
 
 Why is there such zealotry among agilists? Surely if there was a silver bullet for software delivery it would have been found in the last 70 years of industry practice given the billions that have been spent. 
 
-The key to success is good understanding and clear communication. A framework can support this, by framing conversations to have specific purposes. Supporting those in the organisation to ahve effective discussions. 
+The key to success is good understanding and clear communication. A framework can support this, by framing conversations to have specific purposes. Supporting those in the organisation to ahve effective discussions.
+
+Having a common tool set to to work with is valuable in so far as there is a set of agreed operating principles.

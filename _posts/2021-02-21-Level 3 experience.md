@@ -2,7 +2,7 @@
 title: "RFU Level 3"
 excerpt: "Sharing my experience"
 header:
-  teaser: /images/RFU.jfif
+  teaser: /images/RFU.jpeg
 images:
   webinar: "/images/level3webinar.jfif"
   discerning_eye: "/images/coach 6.PNG"
