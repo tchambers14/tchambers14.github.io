@@ -12,3 +12,5 @@ categories: [Rugby]
 
 1. Why do you have so many meetings in the first place
 2. What is going on, what other angles are there to consider
+
+I have found this diversionary tactic an incredibly useful tool to help enquire about what is going on in the team around me.
