@@ -1,6 +1,6 @@
 ---
-title: "Thomas Chambers - Technologist"
-description: "Experienced Quantitative Business Analyst and Product Owner"
+title: "Thomas Chambers - Product Manager"
+description: "Experienced Quantitative Business Analyst and Product Manager"
 image:
 id: work
 header:

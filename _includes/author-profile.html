@@ -10,9 +10,6 @@
           <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image">
           <img src="{{ author.avatar_alt | relative_url }}" class="img_flip" alt="{{ author.name }}" itemprop="image">
         </a>
-      {% elsif page.id == "rugby" %}
-        <img src="{{ author.avatar_alt | relative_url }}" alt="{{ author.name }}" itemprop="image">    
-        <img src="{{ author.avatar | relative_url }}" class="img_flip" alt="{{ author.name }}" itemprop="image"  >  
       {% else %}
         <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image">
         <img src="{{ author.avatar_alt | relative_url }}" class="img_flip" alt="{{ author.name }}" itemprop="image">
@@ -38,7 +35,7 @@
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <a href="https://www.google.com/maps/place/Brixton,+London/@51.4565698,-0.1295498,14z/data=!3m1!4b1!4m5!3m4!1s0x487604393204f5d1:0xd929bf8f7af6c791!8m2!3d51.4612794!4d-0.1156148">
+          <a href="https://www.google.co.uk/maps/place/Guildford/@51.2414864,-0.647823,12z/data=!3m1!4b1!4m6!3m5!1s0x4875c4afb79659df:0x946699b2f9eba8a1!8m2!3d51.23622!4d-0.570409!16zL20vMGtjNDA?entry=ttu">
             <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span></a>
         </li>
       {% endif %}
@@ -251,8 +248,6 @@
           </a>
         </li>
       {% endif %}
-
-      {% include author-profile-custom-links.html %}
     </ul>
   </div>
 </div>

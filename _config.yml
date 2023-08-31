@@ -18,9 +18,9 @@ minimal_mistakes_skin    :  "default" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-GB"
 title                    : "Thomas Chambers"
 title_separator          : "|"
-subtitle                 : "Technologist & Rugby Coach"
+subtitle                 : "Product Manager"
 name                     : "Thomas Chambers"
-description              : "Personal Blog of Thomas Chambers - Technologist & Rugby Coach"
+description              : "Personal Blog of Thomas Chambers - Technology Product Manager"
 url                      : "https://thomas-chambers.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -69,8 +69,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : tchambers14
+# twitter:
+#   username               : tchambers14
 facebook:
   username               :
   app_id                 :
@@ -95,27 +95,24 @@ analytics:
 author:
   name             : "Thomas Chambers"
   avatar           : "/images/Thomas 1 small.JPG"
-  avatar_alt       : "/images/profile.png" 
-  bio              : "Technologist and Rugby Coach"
-  #  employer         : "BNP Paribas"
+  avatar_alt       : "/images/Thomas 1 small.JPG" 
+  bio              : "Product Manager"
+  employer         : "BNP Paribas"
   location         : "Home"
-  email            :  # "tchambers14@gmail.com"
+  email            :  "tchambers14@gmail.com"
   links:
     - label: "Work"
       icon: "far fa-building"
       url: "https://www.bnpparibas.co.uk/en/"
-    - label: "Rugby"
-      icon: "fas fa-football-ball"
-      url: "https://www.alleynianrugby.org/"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tchambers14@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:tchambers14@gmail.com"
     #    - label: "Website"
     #      icon: "fas fa-fw fa-link"
     #      url: "http://whalemagnet.com/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tchambers14"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/tchambers14"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tchambers14"
@@ -129,15 +126,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tchambers14"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/tchambers14"
     #    - label: "Facebook"
     #      icon: "fab fa-fw fa-facebook-square"
     #      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://tchambers14.github.io"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://tchambers14.github.io"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tchambers14"
@@ -284,9 +281,9 @@ collections:
   Analysis:
     output: true
     permalink: /:collection/:path/
-  Rugby:
-    output: true
-    permalink: /:collection/:path/
+  # Rugby:
+  #   output: true
+  #   permalink: /:collection/:path/
   Other:
     output: true
     permalink: /:collection/:path/

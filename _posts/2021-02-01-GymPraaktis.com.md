@@ -6,7 +6,7 @@ header:
 collection: development
 date: 2021-02-01
 tags: ["Jekyll","Development","Portfolio"]
-categories: [Play]
+categories: [Other]
 ---
 
 I have recently built the following webpage for GymPraaktis an exciting company creating engaging smartphone applications within the gym and wellness spheres.

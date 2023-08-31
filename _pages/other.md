@@ -1,10 +1,17 @@
 ---
 layout: archive
-permalink: /other/
+title: "Other"
+summary: "Blog posts about activities and interests"
 id: other
+image:
+permalink: /other/
+author_profile: true
 ---
 
-## General Blog Posts
+This page contains blog-posts about my other interests and activities.
+
+## Other Blog Posts
+
 <ul>{% for post in site.categories.Other %}
-    {% include archive-single.html %}
-{% endfor %}</ul>
+  {% include archive-single.html %}
+  {% endfor %}</ul>

@@ -6,7 +6,7 @@ header:
 date: 2020-03-15
 collection: other
 categories:
-  - Play
+  - Other
 tags:
   - sailing
 ---
