@@ -5,8 +5,8 @@ id: rugby
 header:
   overlay_image: "/images/coach 5.png"
   actions:
-    - label: "Old Alleynian's"
-      url: "https://www.alleynianrugby.org/"
+    # - label: "Old Alleynian's"
+    #   url: "https://www.alleynianrugby.org/"
     - label: "RFU Coaching"
       url: "https://www.englandrugby.com/participation/coaching"
 permalink: /rugby/
@@ -38,7 +38,7 @@ My coaching philosophy is summed up by _"success through enjoyment"_
 
 ## RFU Level 3 Coach
 
-<img src="/images/RFU.jfif" alt="RFU" width="200" class="align-center"/>
+<img src="/images/RFU.jpeg" alt="RFU" width="200" class="align-center"/>
 
 
 ## Rugby Blog Posts
