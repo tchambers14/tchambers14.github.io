@@ -35,7 +35,7 @@
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <a href="https://www.google.co.uk/maps/place/Guildford/@51.2414864,-0.647823,12z/data=!3m1!4b1!4m6!3m5!1s0x4875c4afb79659df:0x946699b2f9eba8a1!8m2!3d51.23622!4d-0.570409!16zL20vMGtjNDA?entry=ttu">
+          <a href="https://www.google.co.uk/maps/place/Guildford/@51.2414864,-0.647823,12z/data=!3m1!4b1!4m6!3m5!1s0x4875c4afb79659df:0x946699b2f9eba8a1!8m2!3d51.23622!4d-0.570409!16zL20vMGtjNDA?entry=ttu" target="_blank" rel="noopener noreferrer">
             <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span></a>
         </li>
       {% endif %}
@@ -43,7 +43,7 @@
       {% if author.links %}
         {% for link in author.links %}
           {% if link.label and link.url %}
-            <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
+            <li><a href="{{ link.url }}" target="_blank" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
           {% endif %}
         {% endfor %}
       {% endif %}
