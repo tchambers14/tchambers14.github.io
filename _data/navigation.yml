@@ -6,11 +6,11 @@ main:
   # - title: "Rugby"
   #   url: /rugby/
 
-  - title: "Other"
+  - title: "Other Interests"
     url: /other/
 
   - title: "All Posts"
     url: /all_posts/
 
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/

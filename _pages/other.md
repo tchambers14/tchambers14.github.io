@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Other"
+title: "Other Interests"
 summary: "Blog posts about activities and interests"
 id: other
 image:
@@ -14,8 +14,7 @@ This page contains blog-posts about my other interests and activities.
 
 I am a qualified level 3 rugby coach and former head coach, director of rugby and committee member of Old Alleynian's Rugby Club in Dulwich.
 
-I have a dedicated rugby page available here
-
+I have a dedicated rugby page available <a href="{{ site.url }}/rugby/">here</a>
 
 ## Other Blog Posts
 
