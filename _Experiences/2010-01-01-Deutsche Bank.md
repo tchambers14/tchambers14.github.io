@@ -17,7 +17,7 @@ date: 2011-01-01
       - Working on some of the banks most complex products, business analyst assisting the desk to migrate the analytics library.
 
 
-Service and leadership
+Service and Leadership
 ---------
 * 5 year commitment to mathematics tutoring in local schools
     - Helping local school children to prepare for GCSE maths exams

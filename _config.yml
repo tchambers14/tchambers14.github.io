@@ -278,16 +278,6 @@ collections:
   experiences:
     output: true
     permalink: /:collection/:path/
-  # Analysis:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # Rugby:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # Other:
-  #   output: true
-  #   permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -312,7 +302,7 @@ defaults:
   # _experiences
   - scope:
       path: ""
-      type: Experiences 
+      type: experiences 
     values:
       layout: single
       author_profile: true

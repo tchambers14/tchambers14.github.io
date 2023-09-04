@@ -18,7 +18,7 @@ Examples of systems:
 
 - Central shared database of players and contact information
   - _I use [Google Docs](https://docs.google.com/), along with the RFU's [GMS System](https://gms.rfu.com/GMS/Account/Login)_
-- Central list of adminstration tasks shared across coaching / management group
+- Central list of administration tasks shared across coaching / management group
   - _I use [Trello](https://trello.com/) a free app that allows several people to collaborate on tasks without having to have meetings_
 - Templated e-mails and standard patterns of communication
   - _I use [Mailchimp](https://mailchimp.com/)_
@@ -45,7 +45,7 @@ Bringing ideas to life can be as simple as a small trial at training, a short ph
 
 This is not to say all ideas are good, sometimes ideas lead no where, this is not, however, a negative outcome. There is value in failed ideas: experiential learning is a great way to gain knowledge as a coach. Through testing ideas we get vital experience even if they fail (perhaps especially if they do!) and it is much easier to discuss real outcomes from deliberate experimentation than hypothetical ones.
 
-## 
+## To sum up
 
 Through having good systems and prioritising administrative work, an amateur coach can maximise their use of time to help provide clarity to co-coaches and players and evolve their club.
 
