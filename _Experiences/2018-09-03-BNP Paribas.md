@@ -1,7 +1,7 @@
 ---
 title: "BNP Paribas - 2018 - Present"
 excerpt: "Led BA for full revaluation stress testing platform"
-collection: Experiences
+collection: experiences
 date: 2011-01-01
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Deutsche Bank - 2009 - 2018"
 excerpt: "Exotic Equity Derivatives and Market Risk"
-collection: Experiences
+collection: experiences
 date: 2011-01-01
 ---
 

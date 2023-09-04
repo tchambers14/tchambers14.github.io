@@ -3,14 +3,15 @@ main:
   - title: "Work"
     url: /work/
 
-  # - title: "Rugby"
-  #   url: /rugby/
+  - title: "CV"
+    url: /cv/
+
+  - title: "Rugby"
+    url: /rugby/
 
   - title: "Other Interests"
     url: /other/
 
   - title: "All Posts"
-    url: /all_posts/
+    url: /categories/
 
-  # - title: "CV"
-  #   url: /cv/

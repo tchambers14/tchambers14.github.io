@@ -275,18 +275,18 @@ compress_html:
 
 # Collections
 collections:
-  Experiences:
+  experiences:
     output: true
     permalink: /:collection/:path/
-  Analysis:
-    output: true
-    permalink: /:collection/:path/
+  # Analysis:
+  #   output: true
+  #   permalink: /:collection/:path/
   # Rugby:
   #   output: true
   #   permalink: /:collection/:path/
-  Other:
-    output: true
-    permalink: /:collection/:path/
+  # Other:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -299,13 +299,20 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true # true
+      # comments: true
       share: true
       related: true
   # _pages
   - scope:
       path: ""
       type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _experiences
+  - scope:
+      path: ""
+      type: Experiences 
     values:
       layout: single
       author_profile: true
