@@ -16,7 +16,7 @@ permalink: /work/
 
 I have spent my [career to date](/cv/) working as a technologist in investment banks generating extensive experience in quantitative risk management, regulatory frameworks, AI/ML and IT topics. I am passionate about understanding organisational dynamics and exploring new ways of working.
 
-<small>_All views expressed in blog posts are my own._</small>
+<small>All views expressed in blog posts are my own.</small>
 
 ## Work Blog Posts
 <ul>{% for post in site.categories.Work %}
