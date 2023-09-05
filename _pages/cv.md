@@ -6,6 +6,8 @@ id: cv
 author_profile: true
 ---
 
+For a full CV please [send me a mail.](mailto:tchambers14@gmail.com)
+
 Experience
 ---
 
@@ -13,10 +15,10 @@ Experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Skills and Expertise
+Key Skills and Expertise
 --------
 
-## IT Skills
+## Technology Skills
 
 * Product Management
 * Product Ownership & Business Analysis
