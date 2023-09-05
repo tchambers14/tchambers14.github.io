@@ -1,7 +1,7 @@
 ---
 title: "Education & Qualifications"
 excerpt: "List of Qualifications"
-collection: experiences
+categories: "cv"
 date: 2009-06-17
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Volunteer Roles"
 excerpt: "Volunteering Experience"
-collection: experiences
+categories: "cv"
 permalink: /volunteering_cv/
 date: 2009-06-16
 ---

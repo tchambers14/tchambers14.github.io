@@ -1,7 +1,7 @@
 ---
 title: "BNP Paribas - 2018 - Present"
 excerpt: "Product Manager"
-collection: experiences
+categories: "cv"
 date: 2011-01-01
 ---
 
