@@ -11,7 +11,7 @@ For a full CV please [send me a mail.](mailto:tchambers14@gmail.com)
 Experience
 ---
 
-  <ul>{% for post in site.categories.cv reversed %}
+  <ul>{% for post in site.categories.cv %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
