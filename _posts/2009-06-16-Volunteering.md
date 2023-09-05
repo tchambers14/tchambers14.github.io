@@ -4,6 +4,8 @@ excerpt: "Volunteering Experience"
 categories: "cv"
 permalink: /volunteering_cv/
 date: 2009-06-16
+layout: single-cv
+share: false
 ---
 
 Volunteer Roles

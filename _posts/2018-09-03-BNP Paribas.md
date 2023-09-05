@@ -3,6 +3,8 @@ title: "BNP Paribas - 2018 - Present"
 excerpt: "Product Manager"
 categories: "cv"
 date: 2011-01-01
+layout: single-cv
+share: false
 ---
 
 ### RISK Systems

@@ -3,6 +3,8 @@ title: "Education & Qualifications"
 excerpt: "List of Qualifications"
 categories: "cv"
 date: 2009-06-17
+layout: single-cv
+share: false
 ---
 
 Education & Qualifications

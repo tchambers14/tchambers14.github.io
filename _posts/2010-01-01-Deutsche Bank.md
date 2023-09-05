@@ -3,6 +3,8 @@ title: "Deutsche Bank - 2009 - 2018"
 excerpt: "Exotic Equity Derivatives and Market Risk"
 categories: "cv"
 date: 2011-01-01
+layout: single-cv
+share: false
 ---
 
 ### Market Risk Technology
