@@ -273,11 +273,11 @@ compress_html:
   ignore:
     envs: development
 
-# Collections
-collections:
-  experiences:
-    output: true
-    permalink: /:collection/:path/
+# Collections #Doesn't work with github pages version of jekyll
+# collections:
+#   experiences:
+#     output: true
+#     permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -299,11 +299,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _experiences
-  - scope:
-      path: ""
-      type: experiences 
-    values:
-      layout: single
-      author_profile: true
+  # _experiences - collections do not work with github pages
+  # - scope:
+  #     path: ""
+  #     type: experiences 
+  #   values:
+  #     layout: single
+  #     author_profile: true
 
