@@ -8,7 +8,7 @@ permalink: /other/
 author_profile: true
 ---
 
-This page contains blog-posts about my other interests and activities.
+This page contains blog posts about my other interests and activities.
 
 ## Other Blog Posts
 

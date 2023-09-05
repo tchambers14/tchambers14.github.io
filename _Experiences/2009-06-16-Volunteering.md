@@ -2,6 +2,7 @@
 title: "Volunteer Roles"
 excerpt: "Volunteering Experience"
 collection: experiences
+permalink: /volunteering_cv/
 date: 2009-06-16
 ---
 
@@ -11,6 +12,7 @@ Volunteer Roles
 **Rugby Coaching**
 
 * RFU Level 3 Coaching Award, 2020
+* 2016-2017 - Youth Coach [Old Alleynians RFC](https://oarfc.rfu.club/){:target="_blank"}
 * 2018-2019 - Forward's Coach [Old Alleynians RFC](https://oarfc.rfu.club/){:target="_blank"}
 * 2019-2022 - Head Coach Senior Men's Rugby [Old Alleynians RFC](https://oarfc.rfu.club/){:target="_blank"}
   - Leading an experienced team of volunteer coaches to deliver rugby training and co-ordinate games for 5 senior mens XVs
