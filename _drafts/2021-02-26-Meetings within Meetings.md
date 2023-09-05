@@ -5,8 +5,8 @@ header:
   teaser: /images/
 collection: rugby
 date: 2020-09-27
-tags: ["coaching",]
-categories: [Rugby]
+tags: ["day-to-day",]
+categories: [Work]
 ---
 
 
